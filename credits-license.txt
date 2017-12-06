@@ -1,0 +1,10 @@
+Credits
+This code was developed for the TraitCapture project at ANU by the Borevitz Lab. Code maintenance and ongoing development is funded by the ANU node of the Australian Plant Phenomics Facility (APPF ANU).
+
+Please include this license and credit APPF ANU when using this code and cite: Brown, Tim B., et al. TraitCapture : genomic and environment modelling of plant phenomic data. Current opinion in plant biology 18 (2014): 73-79 in any publications.
+
+This project is open source but please contact us (http://traitcapture.org/resources)  if you are going to use our code  so we can know who is using it. Please make sure to link to github.com/borevitzlab  in any code you use. 
+
+This project is in active development but we are happy to work with other groups to develop new features so drop us a line if you are interested.
+
+
